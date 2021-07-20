@@ -19,5 +19,8 @@ I am _passionate about_:
 - Drumming
 
 ***
+|Prefix    | Number    | Course Name         | Credits  |
+|:---------|:----------|:-------------------:|:---------|
+|**COP**   |**2073**   |_Intro to Data Sci_  |'3'       |
 
-> Last modified: 2021/07/07
+> Last modified: 2021/07/20
